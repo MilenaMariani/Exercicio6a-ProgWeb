@@ -70,3 +70,19 @@ td, th{
     border-left: 1px solid #ddd;
     border-top: 1px solid #ddd;
 }
+
+input[type=text]{
+    width: 100px;
+    margin: auto;
+    padding: 8px 420px;
+    border-width: 1px #ddd;
+}
+
+input[type=text]:focus{
+    background-color:cadetblue
+
+}
+
+textarea:focus{
+    background-color: cadetblue
+}
